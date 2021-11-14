@@ -11,7 +11,7 @@ An application which solves a given sudoku problem based on OpenCV and Python. I
 The working is broadly dividen into three categories-
 
 - Image Preprocessing
-- Digit Classification 
+- Digit Separation and Classification 
 - Solving sudoku
 - Placing the solved values
 
