@@ -15,3 +15,7 @@ The working is broadly dividen into three categories-
 - Solving sudoku
 - Placing the solved values
 
+<img src="Resources/1.jpg" width="200"> <img src="Resources/Form-1.jpg" width="200"> <img src="Resources/Form-2.jpg" width="200"> <br>
+<img src="Resources/Form-3.jpg" width="200"> <img src="Resources/Form-4.jpg" width="200"> <img src="Resources/Form-5.jpg" width="200">
+
+
