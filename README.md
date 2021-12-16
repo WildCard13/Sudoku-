@@ -6,7 +6,7 @@ An application which solves a given sudoku problem based on OpenCV and Python. I
 <img src="Resources/Sudoku.jpg" width="1400">
 
 ### Technologies Used :
-<img src="Resources/Tf.png" width="80"><img src="Resources/open.png" width="65"><img src="Resources/pyth.png" width="80"><img src="Resources/streamlit.png" width="80">
+<img src="Resources/Tf.png" width="80"><img src="Resources/open.png" width="65"><img src="Resources/pyth.png" width="80"><img src="Resources/streamlit.png" width="100">
 
 
 ### Process Overflow -
